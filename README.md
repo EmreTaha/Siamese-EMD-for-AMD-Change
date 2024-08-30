@@ -1,4 +1,4 @@
-# Automatic detection and prediction of nAMD activity change  in retinal OCT using Siamese networks and EMD-based ordinal loss
+# Automatic detection and prediction of nAMD activity change  in retinal OCT using Siamese networks and Wasserstein Distance for ordinality
  
 This repository contains the MICCAI 2024 Mario Challenge - Task1 & Task 2 solution.
 **Current version has only evaluation part, we will release full-code when the challenge is concluded**
