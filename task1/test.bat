@@ -1,0 +1,1 @@
+python test.py --test_img_1 ./sample_images/AA8E1A00.png --test_img_2 ./sample_images/B3944840.png --weights ./model_weights/weights_best 

@@ -1,0 +1,6 @@
+imageio==2.9.0
+numpy==1.21.6
+Pillow==10.4.0
+timm==0.3.2
+torch==1.12.1
+torchvision==0.13.1
