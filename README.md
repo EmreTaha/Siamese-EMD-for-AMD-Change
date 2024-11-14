@@ -16,5 +16,4 @@ This repository contains the MICCAI 2024 Mario Challenge - Task 1 & Task 2 solut
 Please consider citing our paper if it is useful for you:
 
 ```
-*censored*
 ```
